@@ -19,6 +19,22 @@ table {
 audio {
     width: 100%;
 }
+
+h1 {
+    font-size: 1.75em;
+}
+
+h2 {
+    margin-bottom: 0.4em;
+}
+
+hr {
+    height: 0.5px;
+    border-width: 0;
+    color: lightgray;
+    background-color: lightgray
+}
+
 .paper_title {
   font-style: italic;
 }
