@@ -12,13 +12,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
 }
-table {
-    width: 100%;
-}
 
-audio {
-    width: 100%;
-}
 
 h1 {
     font-size: 1.75em;
